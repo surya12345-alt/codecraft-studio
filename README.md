@@ -1,16 +1,154 @@
-# React + Vite
+# CodeCraft Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. This project demonstrates a clean, responsive user interface with smooth animations and reusable React components.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+https://codecraft-studio-tzcu.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/surya12345-alt/codecraft-studio
+
+---
+
+## ✨ Features
+
+- Responsive Navigation Bar
+- Hero Section
+- Smooth Scroll Navigation
+- Interactive Services Section
+- Animated Statistics Section
+- Process / Timeline Section
+- Testimonials Section
+- Pricing Plans
+- Contact Form
+- Dark / Light Theme Toggle
+- Scroll Progress Indicator
+- Mobile Responsive Design
+- Framer Motion Animations
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📁 Folder Structure
+
+```text
+CodeCraft-Studio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Reveal.jsx
+│   │   ├── ScrollProgress.jsx
+│   │   └── ThemeToggle.jsx
+│   │
+│   ├── sections/
+│   │   ├── Hero.jsx
+│   │   ├── Services.jsx
+│   │   ├── Statistics.jsx
+│   │   ├── Timeline.jsx
+│   │   ├── Testimonials.jsx
+│   │   ├── Pricing.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/surya12345-alt/codecraft-studio.git
+```
+
+Go to the project folder
+
+```bash
+cd codecraft-studio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📸 Preview
+
+Open the live website:
+
+https://codecraft-studio-tzcu.vercel.app
+
+---
+
+## 🎯 Project Objective
+
+This project was developed to demonstrate:
+
+- Responsive Web Design
+- React Component Architecture
+- Tailwind CSS Styling
+- Framer Motion Animations
+- Modern UI/UX Design
+- Reusable Components
+- Professional Frontend Development Practices
+
+---
+
+## 👨‍💻 Author
+
+**Surya Mouli Gunturu**
+
+GitHub: https://github.com/surya12345-alt
+
+LinkedIn: *(Add your LinkedIn profile link here)*
+
+---
+
+## 📜 License
+
+This project is created for educational, internship, and portfolio purposes.
